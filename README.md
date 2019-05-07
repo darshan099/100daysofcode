@@ -25,3 +25,11 @@ Day 2: <br>
 		</ul>
 	<li>Operator Overloading in C++</li>
 </ul>
+Day 3: <br>
+<ul>
+	<li>Linked List in C++</li>
+		<ul>
+			<li>Simple linked list</li>
+			<li>Doubly linked list</li>
+		</ul>
+</ul>
