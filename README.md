@@ -29,7 +29,13 @@ Day 3: <br>
 <ul>
 	<li>Linked List in C++</li>
 		<ul>
-			<li>Simple linked list</li>
+			<li>Singly linked list</li>
 			<li>Doubly linked list</li>
 		</ul>
+</ul>
+Day 4: <br>
+<ul>
+	<li>Binary Tree in C++</li>
+	<li>Stack in C++</li>
+	<li>Queue in C++</li>		
 </ul>
