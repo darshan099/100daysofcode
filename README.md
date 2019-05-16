@@ -39,3 +39,15 @@ Day 4: <br>
 	<li>Stack in C++</li>
 	<li>Queue in C++</li>		
 </ul>
+Day 5: <br>
+<ul>
+	<li>Search in C++</li>
+	<ul>
+		<li>Linear Search</li>
+		<li>Binary Search</li>
+	</ul>	
+</ul>
+Day: 6,7,8 <br>
+<ul>
+	<li>Developing Android App: MusicShare</li>
+</ul>
