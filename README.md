@@ -59,3 +59,10 @@ Day: 10 <br>
 <ul>
 	<li>Developing Android App: MusicShare</li>
 </ul>
+Day: 11<br>
+<ul>
+	<li>List in python</li>
+	<li>Tuples in python</li>
+	<li>Dictionary in python</li>
+	<li>Inheritance in python</li>
+</ul>
