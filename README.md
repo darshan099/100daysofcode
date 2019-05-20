@@ -66,3 +66,9 @@ Day: 11<br>
 	<li>Dictionary in python</li>
 	<li>Inheritance in python</li>
 </ul>
+Day: 12<br>
+<ul>
+	<li>Binary Tree in python</li>
+	<li>Breadth First Search</li>
+	<li>Depth First Search</li>
+</ul>
