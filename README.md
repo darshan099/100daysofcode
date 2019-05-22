@@ -72,3 +72,8 @@ Day: 12<br>
 	<li>Breadth First Search</li>
 	<li>Depth First Search</li>
 </ul>
+Day 13:<br>
+<ul>
+	<li>Stack in python</li>
+	<li>Queue in python</li>
+</ul>
