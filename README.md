@@ -77,7 +77,12 @@ Day 13:<br>
 	<li>Stack in python</li>
 	<li>Queue in python</li>
 </ul>
-Day: 14,15 <br>
+Day: 14,15,16 <br>
 <ul>
 	<li>Developing Android App: MusicShare</li>
 <ul>
+Day: 17 <br>
+<ul>
+	<li>AVL Tree in Python</li>
+	<li>Dijistra Shortest Path Algorithm in Python</li>
+</ul>
