@@ -80,9 +80,21 @@ Day 13:<br>
 Day: 14,15,16 <br>
 <ul>
 	<li>Developing Android App: MusicShare</li>
-<ul>
+</ul>
 Day: 17 <br>
 <ul>
 	<li>AVL Tree in Python</li>
 	<li>Dijistra Shortest Path Algorithm in Python</li>
+</ul>
+Day 18:<br>
+<ul>
+	<li>Bubble Sort in python</li>
+	<li>Insertion Sort in python</li>
+	<li>Selection Sort in python</li>
+</ul>
+Day 19: <br>
+<ul>
+	<li>Merge Sort in python</li>
+	<li>Quick Sort in python</li>
+	<li>Shell Sort in python</li>
 </ul>
