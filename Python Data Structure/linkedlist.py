@@ -76,7 +76,7 @@ while(ch<5):
 		list1.listprint()
 		continue
 	elif(ch==4):
-		print("Enter search element")
+		print("Enter search element ")
 		element=int(input())
 		list1.search(element)
 		continue
