@@ -102,3 +102,7 @@ Day 20: <br>
 <ul>
 	<li>Developing Android App: MusicShare</li>
 </ul>
+Day 21: <br>
+<ul>
+	<li>Linear Regression in Python</li>
+</ul>
